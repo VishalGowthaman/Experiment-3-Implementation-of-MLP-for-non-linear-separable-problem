@@ -115,6 +115,7 @@ predict(w1,w2,test)
 ```
     
 **OUTPUT :**
+
 ![](a.png)
 
 ![](b.png)
